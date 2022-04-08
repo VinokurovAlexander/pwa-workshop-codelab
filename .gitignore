@@ -117,3 +117,5 @@ dist
 
 # Environment
 .DS_Store
+
+.idea
